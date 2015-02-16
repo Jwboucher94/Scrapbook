@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbook</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pic1Description">Eiffel Tower</string>
+    <string name="Pic2Description">The Kremlin</string>
+    <string name="Pic3Description">Statue of Liberty</string>
+    <string name="Pic4Description">Great Pyramids</string>
+    <string name="title">Welcome To The Scrapbook</string>
+    <string name="title2">Scrapbook</string>
+    <string name="title1">Welcome To The</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="Pic1Description">Torre Eiffel</string>
+    <string name="Pic2Description">El Kremlin</string>
+    <string name="Pic3Description">Estatua de la Libertad</string>
+    <string name="Pic4Description">Grandes Pirámides</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="app_name">álbum de recortes</string>
+    <string name="title">Bienvenido al libro de recuerdos</string>
+    <string name="title2">de recuerdos</string>
+    <string name="title1">Bienvenido al libro</string>
+
+</resources>

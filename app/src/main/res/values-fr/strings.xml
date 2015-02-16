@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="Pic1Description">tour Eiffel</string>
+    <string name="Pic2Description">le Kremlin</string>
+    <string name="Pic3Description">Statue de la Liberté</string>
+    <string name="Pic4Description">Grandes Pyramides</string>
+    <string name="action_settings">paramètres</string>
+    <string name="app_name">album de coupures de journaux</string>
+    <string name="title">Bienvenue à l\'Album</string>
+    <string name="title2">à l\'Album</string>
+    <string name="title1">Bienvenue </string>
+
+</resources>
